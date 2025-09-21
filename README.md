@@ -4,7 +4,7 @@
 
 **视频演示: https://www.bilibili.com/video/BV1xu4m1c74M?vd_source=2bc8d4ea08ea55a3c0b2945ac6763f28**
 
-**Software: ESP32S3Project: VSCode+PlatformIO导入工程; SquarelineProject: SquareLine Studio导入工程**
+**Software: ESP32S3Project: VSCode+PlatformIO导入工程，将.pio-copy改为.pio;  SquarelineProject: SquareLine Studio导入工程**
 
 **Hardware: 嘉立创专业版导入工程，可导出BOM表和制版文件**
 
@@ -14,7 +14,7 @@
 
 ## 搭建VSCode+PlatformIO开发环境
 
-**B站教程: https://www.bilibili.com/video/BV1u8411t7H4/?buvid=YF4E3FF612BD411E4FA7976696E44E34C59C&from_spmid=main.space-contribution.0.0&is_story_h5=false&mid=iAoZKnJK4DERvs61giYvaA%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=CD9F1199-AD98-4733-8674-1C2C0CC186BF&share_source=QQ&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1714569706&unique_k=vvAaF2M&up_id=362828858**
+**B站教程: [完美搭建VSCode+PlatformIO开发环境](https://www.bilibili.com/video/BV1u8411t7H4/?buvid=YF4E3FF612BD411E4FA7976696E44E34C59C&from_spmid=main.space-contribution.0.0&is_story_h5=false&mid=iAoZKnJK4DERvs61giYvaA%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=CD9F1199-AD98-4733-8674-1C2C0CC186BF&share_source=QQ&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1714569706&unique_k=vvAaF2M&up_id=362828858) **
 
 **知乎: https://zhuanlan.zhihu.com/p/558636239**
 
@@ -63,6 +63,4 @@
 
 
 
- 
 
- 

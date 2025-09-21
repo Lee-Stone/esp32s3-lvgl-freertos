@@ -1,0 +1,82 @@
+websockets	KEYWORD1
+network	KEYWORD1
+WebsocketsClient	KEYWORD1
+WebsocketsServer	KEYWORD1
+
+connect	KEYWORD2
+send	KEYWORD2
+sendBinary	KEYWORD2
+onMessage	KEYWORD2
+onEvent	KEYWORD2
+available	KEYWORD2
+poll	KEYWORD2
+ping	KEYWORD2
+pong	KEYWORD2
+close	KEYWORD2
+setCACert	KEYWORD2
+setFingerprint	KEYWORD2
+setInsecure	KEYWORD2
+readBlocking	KEYWORD2
+addHeader	KEYWORD2
+
+setFragmentsPolicy	KEYWORD2
+getFragmentsPolicy	KEYWORD2
+getCloseReason	KEYWORD2
+
+
+# Server
+listen	KEYWORD2
+poll	KEYWORD2
+accept	KEYWORD2
+
+# Message
+isEmpty	KEYWORD2
+isText	KEYWORD2
+isBinary	KEYWORD2
+isPing	KEYWORD2
+isPong	KEYWORD2
+isClose	KEYWORD2
+isComplete	KEYWORD2
+isPartial	KEYWORD2
+isFirst	KEYWORD2
+isContinuation	KEYWORD2
+isLast	KEYWORD2
+
+WebsocketsMessage	KEYWORD1
+data	KEYWORD2
+type	KEYWORD2
+rawData	KEYWORD2
+c_str	KEYWORD2
+
+WebsocketsEvent	KEYWORD1
+ConnectionOpened	LITERAL1
+ConnectionClosed	LITERAL1
+GotPing	LITERAL1
+GotPong	LITERAL1
+
+WSString	KEYWORD1
+MessageType	KEYWORD1
+Text	LITERAL1
+Binary	LITERAL1
+Close	LITERAL1
+Ping	LITERAL1
+Pong	LITERAL1
+
+
+CloseReason	KEYWORD1
+CloseReason_None	LITERAL1
+CloseReason_NormalClosure	LITERAL1
+CloseReason_GoingAway	LITERAL1
+CloseReason_ProtocolError	LITERAL1
+CloseReason_UnsupportedData	LITERAL1
+CloseReason_NoStatusRcvd	LITERAL1
+CloseReason_AbnormalClosure	LITERAL1
+CloseReason_InvalidPayloadData	LITERAL1
+CloseReason_PolicyViolation	LITERAL1
+CloseReason_MessageTooBig	LITERAL1
+CloseReason_InternalServerError	LITERAL1
+
+
+FragmentsPolicy	KEYWORD1
+FragmentsPolicy_Aggregate	LITERAL1
+FragmentsPolicy_Notify	LITERAL1
